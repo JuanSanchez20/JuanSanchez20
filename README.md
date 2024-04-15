@@ -13,14 +13,14 @@ I am a Software Development student ðŸ’» and passionate about new technology ðŸ¤
       <h4>:ledger:Contact</h4>
       <ul>
         <li>
-            <a href="mailto:sanchezlemajj@gmail.com">
+            <a href="www.linkedin.com/in/juan-sanchez-8817ba256">
         <!-- Icono de LinkedIn -->
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" height="20">
             </a>
         </li>
         <!-- Icono de Gmail -->
         <li>
-            <a href="www.linkedin.com/in/juan-sanchez-8817ba256">
+            <a href="mailto:sanchezlemajj@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="70" height="20">
             </a>
         </li>
