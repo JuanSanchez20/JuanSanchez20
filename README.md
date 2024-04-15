@@ -45,7 +45,32 @@ I am a Software Development student 💻 and passionate about new technology �
     </td>
   </tr>
 </table>
+<h2 align="center">:point_right:Content YouTube:point_left:</h2>
+<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/b6150cde-85c0-4505-9dbc-53232c3e8f63" width="100%" height="auto">
 
+
+<!--<table>
+  <thead>
+    <tr>
+      <th>
+        <h3>Video de Presentacion</h3>
+      </th>
+      <th>
+        <h3>Explicacion Primer Proyecto</h3>
+      </th>
+      <th>
+        <h3>Explicacion Segundo Proyecto</h3>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=VIDEO_ID1">Ver Video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=VIDEO_ID2">Ver Video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=VIDEO_ID3">Ver Video</a></td>
+    </tr>
+  </tbody>  
+</table>-->
 
 <!--
 **JuanSanchez20/JuanSanchez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
