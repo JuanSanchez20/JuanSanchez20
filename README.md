@@ -15,19 +15,19 @@ I am a Software Development student ðŸ’» and passionate about new technology ðŸ¤
         <li>
             <a href="mailto:sanchezlemajj@gmail.com">
         <!-- Icono de LinkedIn -->
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="50" height="20">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" height="20">
             </a>
         </li>
         <!-- Icono de Gmail -->
         <li>
             <a href="www.linkedin.com/in/juan-sanchez-8817ba256">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="50" height="20">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="70" height="20">
             </a>
         </li>
         <!-- Icono de Twitter -->
         <li>
             <a href="https://twitter.com/JuanJSanchezL">
-            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="50" height="20">
+            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="70" height="20">
             </a>
         </li>
       </ul>   
