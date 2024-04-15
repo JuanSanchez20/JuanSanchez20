@@ -13,7 +13,7 @@ I am a Software Development student ğŸ’» and passionate about new technology ğŸ¤
       <h4>:ledger:Contact</h4>
       <ul>
         <li>
-            <a href="www.linkedin.com/in/juan-sanchez-8817ba256">
+            <a href="https://www.linkedin.com/in/juan-sanchez-8817ba256">
         <!-- Icono de LinkedIn -->
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" height="20">
             </a>
