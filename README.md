@@ -5,11 +5,11 @@ I am a Software Development student ğŸ’» and passionate about new technology ğŸ¤
 <table>
   <tr>
     <!-- Columna para la imagen -->
-    <td>
+    <td width="75%">
       <img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/0eed1d7d-6926-4c0d-b5cb-360a414fa8a2" width="100%" height="auto">
     </td>
     <!-- Columna para el texto -->
-    <td valign="top"> <!-- valign="top" alinea el contenido de la celda a la parte superior -->
+    <td width="25%" valign="top"> <!-- valign="top" alinea el contenido de la celda a la parte superior -->
       <h4>:ledger:Contact</h4>
       <ul>
         <li>
@@ -46,9 +46,8 @@ I am a Software Development student ğŸ’» and passionate about new technology ğŸ¤
   </tr>
 </table>
 <h2 align="center">:point_right:Content YouTube:point_left:</h2>
-<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/b6150cde-85c0-4505-9dbc-53232c3e8f63" width="100%" height="auto">
-
-
+<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/b6150cde-85c0-4505-9dbc-53232c3e8f63" width="49%" height="auto" style="float: left;">
+<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/4ea030c6-3347-4773-ae9c-980172a5a605" width="49%" height="auto" style="float: right;">
 <!--<table>
   <thead>
     <tr>
