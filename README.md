@@ -46,8 +46,9 @@ I am a Software Development student ğŸ’» and passionate about new technology ğŸ¤
   </tr>
 </table>
 <h2 align="center">:point_right:Content YouTube:point_left:</h2>
-<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/b6150cde-85c0-4505-9dbc-53232c3e8f63" width="49%" height="auto" style="float: left;">
-<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/4ea030c6-3347-4773-ae9c-980172a5a605" width="49%" height="auto" style="float: right;">
+<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/b6150cde-85c0-4505-9dbc-53232c3e8f63" width="47%" height="auto" style="float: left;">
+<img src="https://github.com/JuanSanchez20/JuanSanchez20/assets/149217388/4ea030c6-3347-4773-ae9c-980172a5a605" width="47%" height="auto" style="float: right;">
+
 <!--<table>
   <thead>
     <tr>
