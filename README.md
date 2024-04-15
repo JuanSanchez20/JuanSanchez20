@@ -1,6 +1,6 @@
-<h3 align="center">Hello 👋, I'm Juan Sanchez 😎</h3>
+<h1 align="center">Hello 👋, I'm Juan Sanchez 😎</h3>
 
-I am a Software Development student 💻 and passionate about new technology 🤖. My goal is to create innovative technological projects 🧠.
+I am a Software Development student 💻 and passionate about new technology 🤖. My goal is to create innovative technological projects 💭.
 
 <table>
   <tr>
@@ -10,17 +10,32 @@ I am a Software Development student 💻 and passionate about new technology �
     </td>
     <!-- Columna para el texto -->
     <td valign="top"> <!-- valign="top" alinea el contenido de la celda a la parte superior -->
-      <h4>Contact</h4>
+      <h4>:ledger:Contact</h4>
       <ul>
-        <li>Email: <a href="mailto:sanchezlemajj@gmail.com">sanchezlemajj@gmail.com</a></li>
-        <li>LinkedIn: <a href="www.linkedin.com/in/juan-sanchez-8817ba256">juanlinkedin</a></li>
-        <li>Twitter: <a href="https://twitter.com/JuanJSanchezL">@JuanTwitter</a></li>
-      </ul>
-      <h4>Featured projects</h4>
+        <li>
+            <a href="mailto:sanchezlemajj@gmail.com">
+        <!-- Icono de LinkedIn -->
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="50" height="20">
+            </a>
+        </li>
+        <!-- Icono de Gmail -->
+        <li>
+            <a href="www.linkedin.com/in/juan-sanchez-8817ba256">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="50" height="20">
+            </a>
+        </li>
+        <!-- Icono de Twitter -->
+        <li>
+            <a href="https://twitter.com/JuanJSanchezL">
+            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="50" height="20">
+            </a>
+        </li>
+      </ul>   
+      <h4>:briefcase:Featured projects</h4>
       <ul>
         <li><a href="https://github.com/JuanSanchez20/mi-proyecto">My Technology Project</a></li>
       </ul>
-      <h4>Skills</h4>
+      <h4>:brain:Skills:</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
