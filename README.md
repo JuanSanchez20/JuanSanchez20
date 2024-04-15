@@ -37,9 +37,9 @@ I am a Software Development student ğŸ’» and passionate about new technology ğŸ¤
       </ul>
       <h4>:brain:Skills:</h4>
       <p>
-        <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30">
-        <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30">
-        <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="30" height="30">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
       </p>
       <p>:hammer_and_wrench: Docker, Kubernetes</p>
     </td>
