@@ -10,38 +10,19 @@ I am a Software Development student 💻 and passionate about new technology �
     </td>
     <!-- Columna para el texto -->
     <td width="25%" valign="top"> <!-- valign="top" alinea el contenido de la celda a la parte superior -->
-      <h4>:ledger:Contact</h4>
-      <ul>
-        <li>
-            <a href="https://www.linkedin.com/in/juan-sanchez-8817ba256">
-        <!-- Icono de LinkedIn -->
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" height="20">
-            </a>
-        </li>
-        <!-- Icono de Gmail -->
-        <li>
-            <a href="mailto:sanchezlemajj@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="70" height="20">
-            </a>
-        </li>
-        <!-- Icono de Twitter -->
-        <li>
-            <a href="https://twitter.com/JuanJSanchezL">
-            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="70" height="20">
-            </a>
-        </li>
-      </ul>   
       <h4>:briefcase:Featured projects</h4>
       <ul>
         <li><a href="https://github.com/JuanSanchez20/mi-proyecto">My Technology Project</a></li>
       </ul>
       <h4>:brain:Skills:</h4>
+      <p>📖Languajes:</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+        <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cs" alt="Lenguajes de Programación" style="max-width: 100%;">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,r" alt="Bases de Datos" style="width: 70%;">
       </p>
-      <p>:hammer_and_wrench: Docker, Kubernetes</p>
+      <p>:hammer_and_wrench: Tools:</p>
+      <p><img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,idea,pycharm,visualstudio" alt="Herramientas de Trabajo" style="max-width: 50%;"></p>
+      <p><img src="https://skillicons.dev/icons?i=git,github,bootstrap" alt="Manejo Actualizaciones" style="max-width: 50%;"></p>
     </td>
   </tr>
 </table>
